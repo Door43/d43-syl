@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[syl:home|Door43 (syl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-syl|d43-syl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-syl/archive/master.zip|d43-syl.zip]]
+
+**Recent Changes**
+{{changes>ns = syl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/syl|Ethnologue data]]
+
